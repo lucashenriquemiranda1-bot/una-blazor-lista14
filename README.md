@@ -1,28 +1,28 @@
 # una-blazor-lista14
 
- Identificação
+ # Identificação
 
 Nome: Lucas Henrique Miranda
 Curso: Análise e Desenvolvimento de Sistemas.
 
 
- Guia de Execução
+ # Guia de Execução
 
 Siga os passos abaixo para executar o projeto via terminal:
 
-# Acessar a pasta do projeto
+# Acessar a pasta do projeto:
 cd MeuCurriculo
 
-# Restaurar dependências
+# Restaurar dependências:
 dotnet restore
 
-# Executar aplicação
+# Executar aplicação:
 dotnet run
 
 Após executar, o navegador abrirá automaticamente com a aplicação rodando localmente.
 
 
- Tecnologia Utilizada
+ # Tecnologia Utilizada:
 .NET 8
 Blazor WebAssembly
 C#
@@ -30,7 +30,7 @@ HTML
 
 
 
- Heurística – 
+ # Heurística – 
 
 O sistema foi desenvolvido seguindo a heurística de “Ajuda e documentação”, garantindo que, mesmo sendo simples de usar, o usuário possa compreender facilmente seu funcionamento.
 
